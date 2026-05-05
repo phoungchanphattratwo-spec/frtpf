@@ -1,1 +1,0 @@
-# FRT - Facebook Register Tool

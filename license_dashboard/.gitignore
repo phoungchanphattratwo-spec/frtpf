@@ -1,5 +1,0 @@
-# Local configuration - DO NOT COMMIT
-config.js
-
-# Keep a template for others
-!config.example.js
