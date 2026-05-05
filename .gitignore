@@ -1,0 +1,102 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# PyInstaller
+*.manifest
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# License files (sensitive)
+.frt_license.json
+.frt_denied.json
+
+# Account backups (user data)
+account_backup/
+*.tar.gz
+
+# CSV files with user data
+accounts_to_update.csv
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Config files with sensitive data
+license_dashboard/config.js
+
+# Distribution / packaging
+dist/
+build/
+*.exe
+*.msi
+
+# Releases (too large for git)
+releases/*.exe
+releases/*.zip
+releases/*.msi
+
+# Keep README in releases
+!releases/README.md
+
+# Qodo AI files
+.qodo/
+
+# Test files
+test_*.py
+*_test.py
