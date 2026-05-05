@@ -91,8 +91,12 @@ releases/*.exe
 releases/*.zip
 releases/*.msi
 
-# Keep README in releases
+# Keep README and release notes in releases
 !releases/README.md
+!releases/RELEASE_NOTES_*.md
+
+# Version file (INCLUDE THIS - needed for auto-update)
+# version.json should be committed!
 
 # Qodo AI files
 .qodo/

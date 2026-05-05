@@ -1,0 +1,20 @@
+{
+  "version": "1.1.0",
+  "release_date": "2026-05-05",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.0/FRT-v1.1.0-windows-20260505.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.0",
+  "minimum_version": "1.0.0",
+  "force_update": false,
+  "release_notes": [
+    "✨ Lifetime license support (100 years)",
+    "🎨 Modern license activation dialog",
+    "🔧 License dashboard improvements",
+    "🐛 Fixed expiry calculation bugs",
+    "🟡 Yellow Tool ID badge",
+    "🎯 Custom confirm/prompt dialogs"
+  ],
+  "file_size_mb": 106.78,
+  "sha256": "869ec8324520a07e5744d7e4057c4548af2dacd38c7093a944620c575051ec49",
+  "platform": "windows",
+  "architecture": "x64"
+}
