@@ -1,20 +1,17 @@
 {
-  "version": "1.1.2",
-  "release_date": "2026-05-05",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.2/FRT-Setup-v1.1.2.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.2",
+  "version": "1.1.0",
+  "release_date": "2026-05-04",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.0/FRT-Setup-v1.1.0.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.0",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "🧪 TEST: Testing auto-update from v1.1.1 to v1.1.2",
-    "🔒 CRITICAL: Fixed banned user bypass vulnerability",
-    "⚡ 2.5x faster startup with parallel license validation",
-    "🐛 Fixed ban check enforcement (banned users now blocked immediately)",
-    "🚀 Optimized license validation with concurrent requests",
-    "✅ Better offline mode support"
+    "✨ Lifetime license support (100 years)",
+    "🎨 Modern license activation dialog",
+    "� License dashboard improvements"
   ],
   "file_size_mb": 105,
-  "sha256": "43a682eb25f70ec6a6b740c099d09f7c7e543733fb888c0a71c076fd64e162ff",
+  "sha256": "placeholder",
   "platform": "windows",
   "architecture": "x64"
 }
