@@ -1,19 +1,19 @@
 {
-  "version": "1.1.2",
-  "release_date": "2026-05-05",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.2/FRT-Setup-v1.1.2.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.2",
+  "version": "1.1.3",
+  "release_date": "2026-05-06",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.3/FRT-Setup-v1.1.3.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.3",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "🐛 CRITICAL: Disabled automatic update check (was causing crashes)",
-    "✅ Manual update check only - click version button to check",
-    "🔒 Fixed banned user bypass vulnerability",
-    "⚡ 2.5x faster startup with parallel license validation",
-    "🚀 Optimized license validation with concurrent requests"
+    "🐛 CRITICAL FIX: Resolved crash when checking for updates",
+    "✅ Fixed Qt thread safety issue in auto-update checker",
+    "🚀 Auto-update now works reliably on startup",
+    "🔒 Maintained banned user bypass fix from v1.1.2",
+    "⚡ Maintained 2.5x faster startup from v1.1.2"
   ],
   "file_size_mb": 105,
-  "sha256": "256de28e06e314c31457f0372f06f91a54effe35cd3eda33ef5aa593b26207e9",
+  "sha256": "04eab58348c4aab4ed680ec9094aa5139f83ad31068d6852ecdb263d96b31d81",
   "platform": "windows",
   "architecture": "x64"
 }
