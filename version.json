@@ -1,16 +1,16 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "release_date": "2026-05-06",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.2/FRT-Setup-v1.1.2.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.2",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.3/FRT-Setup-v1.1.3.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.3",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
+    "🐛 CRITICAL FIX: Download timeout removed - updates work on slow connections",
     "🌍 IP Geolocation - Captures user IP, country flag, and city automatically",
-    "💰 Revenue Tracking - Add price when creating/editing licenses",
-    "� User Name Column - Added to Users & Devices table",
-    "🚀 Improved IP Capture - 5 fallback services for maximum reliability",
-    "🎨 Country Flags - Beautiful flag icons in dashboard (works on all OS)"
+    "� Revenue Tracking - Add price when creating/editing licenses",
+    "👤 User Name Column - Added to Users & Devices table",
+    "🚀 Improved IP Capture - 5 fallback services for maximum reliability"
   ],
   "file_size_mb": 105,
   "sha256": "d40711320deba79b016be99d1cb681e39f99f0e32600a1c4ec1e24a84086ce4d",
