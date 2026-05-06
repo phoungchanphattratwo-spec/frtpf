@@ -1,18 +1,19 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.1",
   "release_date": "2026-05-06",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.7/FRT-Setup-v1.1.7.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.7",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.1/FRT-Setup-v1.1.1.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.1",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "🧪 TEST RELEASE: Verifying v1.1.6 users can update smoothly",
-    "✅ Same taskkill approach as v1.1.6",
-    "� Should install without any errors",
-    "🎯 Proving the update system works perfectly"
+    "✨ Professional auto-update system - works like Kiro",
+    "🎨 Fixed tooltip visibility with proper dark theme styling",
+    "🚀 Seamless update experience - no errors, fully automated",
+    "🔒 Fixed banned user bypass vulnerability",
+    "⚡ 2.5x faster startup with parallel license validation"
   ],
   "file_size_mb": 105,
-  "sha256": "8537375fb3d57f7fc02a74c2fdb4fee0551c54d1361790b9bb28608fb8d56f1f",
+  "sha256": "91a2b9537da4f09e9d1a27f193621e27109157718e9580b72683142a08e74b59",
   "platform": "windows",
   "architecture": "x64"
 }
