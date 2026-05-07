@@ -1,19 +1,19 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "release_date": "2026-05-07",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.7/FRT-v1.1.7-windows-20260507.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.7",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.8/FRT-v1.1.8-windows-20260507.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.8",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "✅ Test Release - Verifying v1.1.6 → v1.1.7 update works correctly",
-    "🔧 Installer replacement fix from v1.1.6",
-    "🔒 Smart install path detection via Windows Registry",
-    "⚡ Completely silent update process",
-    "🎨 All previous fixes included"
+    "🔧 CRITICAL FIX: Hardcoded version removed - now uses dynamic version",
+    "✅ Improved installer wait logic - prevents 'file not found' error",
+    "🔒 Added /DIR parameter to force correct install directory",
+    "⚡ Extended wait time for installer to complete (15 seconds)",
+    "🎨 All previous fixes from v1.1.6 and v1.1.7 included"
   ],
   "file_size_mb": 106.8,
-  "sha256": "f7d57853d3994a0170414b4254c12d4a885300fd8fd694b051e8511ce2403e65",
+  "sha256": "6e89e9395b8bf77426be698d043fe15405f2ebc1d59244e1acf67856217d22d6",
   "platform": "windows",
   "architecture": "x64"
 }
