@@ -1,19 +1,19 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "release_date": "2026-05-07",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.6/FRT-v1.1.6-windows-20260507.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.6",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.7/FRT-v1.1.7-windows-20260507.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.7",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "� CRITICAL FIX: Installer now properly replaces old version",
-    "✅ Version persists after closing and reopening app",
+    "✅ Test Release - Verifying v1.1.6 → v1.1.7 update works correctly",
+    "🔧 Installer replacement fix from v1.1.6",
     "🔒 Smart install path detection via Windows Registry",
     "⚡ Completely silent update process",
-    "🎨 Clean Seeding Settings dialog with persistent settings"
+    "🎨 All previous fixes included"
   ],
   "file_size_mb": 106.8,
-  "sha256": "3e5b7d60bd1a980c9a7d1010381962c9e418f3af594035bb0f434d387818394a",
+  "sha256": "f7d57853d3994a0170414b4254c12d4a885300fd8fd694b051e8511ce2403e65",
   "platform": "windows",
   "architecture": "x64"
 }
