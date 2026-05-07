@@ -1,19 +1,19 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "release_date": "2026-05-07",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.5/FRT-v1.1.5-windows-20260507.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.5",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.6/FRT-v1.1.6-windows-20260507.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.6",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "✅ Stability Release - Verified auto-update system works perfectly",
-    "🔧 Version Detection Fixed - No more false update notifications",
-    "⚡ Download Timeout Fixed - Works on all connection speeds",
-    "🌍 IP Geolocation - Country flags and city tracking",
-    "💰 Revenue Tracking - Price fields in license management"
+    "� CRITICAL FIX: Installer now properly replaces old version",
+    "✅ Version persists after closing and reopening app",
+    "🔒 Smart install path detection via Windows Registry",
+    "⚡ Completely silent update process",
+    "🎨 Clean Seeding Settings dialog with persistent settings"
   ],
   "file_size_mb": 106.8,
-  "sha256": "d69cf93d6b4db696413e4259f2409f30e0a21b01a74a4320dc5958a9b6311acf",
+  "sha256": "3e5b7d60bd1a980c9a7d1010381962c9e418f3af594035bb0f434d387818394a",
   "platform": "windows",
   "architecture": "x64"
 }
