@@ -1,19 +1,19 @@
 {
-  "version": "1.1.4",
-  "release_date": "2026-05-06",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.4/FRT-Setup-v1.1.4.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.4",
+  "version": "1.1.5",
+  "release_date": "2026-05-07",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.1.5/FRT-v1.1.5-windows-20260507.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.1.5",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "🐛 CRITICAL FIX: Download timeout removed - updates work on slow connections",
-    "🌍 IP Geolocation - Captures user IP, country flag, and city automatically",
-    "� Revenue Tracking - Add price when creating/editing licenses",
-    "👤 User Name Column - Added to Users & Devices table",
-    "🚀 Improved IP Capture - 5 fallback services for maximum reliability"
+    "✅ Stability Release - Verified auto-update system works perfectly",
+    "🔧 Version Detection Fixed - No more false update notifications",
+    "⚡ Download Timeout Fixed - Works on all connection speeds",
+    "🌍 IP Geolocation - Country flags and city tracking",
+    "💰 Revenue Tracking - Price fields in license management"
   ],
-  "file_size_mb": 105,
-  "sha256": "d40711320deba79b016be99d1cb681e39f99f0e32600a1c4ec1e24a84086ce4d",
+  "file_size_mb": 106.8,
+  "sha256": "d69cf93d6b4db696413e4259f2409f30e0a21b01a74a4320dc5958a9b6311acf",
   "platform": "windows",
   "architecture": "x64"
 }
