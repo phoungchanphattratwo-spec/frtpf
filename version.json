@@ -1,19 +1,19 @@
 {
   "version": "1.0.1",
   "release_date": "2026-05-07",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.0.1/FRT-v1.0.1-windows-20260507.exe",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.0.1/FRT.exe",
   "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.0.1",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "🎯 CRITICAL FIX: Installer now detects and migrates from ANY previous location",
-    "✅ Automatically finds old installations (Desktop, Documents, etc.)",
-    "� Migrates to Program Files and removes old installation",
-    "🔧 Fixes issue where users stayed on old version after update",
-    "⚡ Professional installation like other Windows apps"
+    "🎯 FIXED: Update system now works like Kiro/Telegram",
+    "✅ Updates replace FRT.exe in current location",
+    "🔄 No more installer - direct exe replacement",
+    "⚡ Works regardless of installation location",
+    "🚀 Simple, fast, reliable updates"
   ],
   "file_size_mb": 106.8,
-  "sha256": "",
+  "sha256": "f56fb757f6f908d7a210a659ce50efcf535b7eb9e60d20fe167a16713480dfa7",
   "platform": "windows",
   "architecture": "x64"
 }
