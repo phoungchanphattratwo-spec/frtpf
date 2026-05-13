@@ -1,19 +1,19 @@
 {
-  "version": "1.0.1",
-  "release_date": "2026-05-07",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.0.1/FRT.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.0.1",
+  "version": "1.0.2",
+  "release_date": "2026-05-14",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.0.2/FRT-v1.0.2-windows-20260514.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.0.2",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "🎯 FIXED: Update system now works like Kiro/Telegram",
-    "✅ Updates replace FRT.exe in current location",
-    "🔄 No more installer - direct exe replacement",
-    "⚡ Works regardless of installation location",
-    "🚀 Simple, fast, reliable updates"
+    "🐛 CRITICAL: Disabled automatic update check (was causing crashes)",
+    "✅ Users must manually click version button to check for updates",
+    "🔒 Fixed banned user bypass vulnerability",
+    "⚡ 2.5x faster startup with parallel license validation",
+    "🚀 Optimized license validation with concurrent requests"
   ],
-  "file_size_mb": 106.8,
-  "sha256": "f56fb757f6f908d7a210a659ce50efcf535b7eb9e60d20fe167a16713480dfa7",
+  "file_size_mb": 111.79,
+  "sha256": "1e7a3bf6b1e3f5a47363925e81b65434a5bf845c26436f7c9222e0e68407f99d",
   "platform": "windows",
   "architecture": "x64"
 }
