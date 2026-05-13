@@ -6,14 +6,18 @@
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "✨ NEW: Device table toggle selection - click selected row to deselect",
-    "🐛 Fixed device table selection not deselecting on second click",
-    "🔧 Fixed encoding issues in gui.py and version.json",
-    "⚡ Improved device table responsiveness with signal-based selection",
-    "🎯 Enhanced UX: Single-click toggle for device selection"
+    "🐛 Fixed imported accounts disappearing after restart (relative path bug)",
+    "🐛 Fixed NamedTemporaryFile import fallback on Windows (delete=False + close before move)",
+    "🐛 Fixed VPN loading dialog flash before connect dialog (removed unnecessary scan progress)",
+    "✨ VPN app sent to background after successful connection (KEYCODE_HOME)",
+    "🐛 Fixed Stop button in automation tab not stopping the process",
+    "🐛 Fixed uiautomator dump timeout — added 3-attempt retry with pkill recovery",
+    "🐛 Fixed Facebook URL not opening target post (-S flag removed from am start)",
+    "⚡ Improved share link loading: more retries, longer timeouts, smarter waits",
+    "🛑 Stop now sends Facebook to background immediately on all devices"
   ],
-  "file_size_mb": 111.92,
-  "sha256": "cc39ad77c88c85f1cc27f607df786271e0b05de3c1a6ff2486a6c12625fb71f2",
+  "file_size_mb": 111.93,
+  "sha256": "9edd6faf41b2455e5224ed54b3a65c46a3ca4c244dfbf01e26a53802998184b4",
   "platform": "windows",
   "architecture": "x64"
 }
