@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "release_date": "2026-05-14",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.0.3/FRT-v1.0.3-windows-20260514.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.0.3",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.0.4/FRT-v1.0.4-windows-20260514.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.0.4",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
@@ -17,7 +17,7 @@
     "🛑 Stop now sends Facebook to background immediately on all devices"
   ],
   "file_size_mb": 111.93,
-  "sha256": "9edd6faf41b2455e5224ed54b3a65c46a3ca4c244dfbf01e26a53802998184b4",
+  "sha256": "b3bfc7e90fe344a114a8d4c625a4acacd3ef66820d324e9f9783828d6bbf4f40",
   "platform": "windows",
   "architecture": "x64"
 }
