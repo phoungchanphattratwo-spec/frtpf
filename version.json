@@ -1,23 +1,24 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "release_date": "2026-05-14",
-  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.0.4/FRT-v1.0.4-windows-20260514.exe",
-  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.0.4",
+  "download_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/download/v1.0.5/FRT-v1.0.5-windows-20260514.exe",
+  "changelog_url": "https://github.com/phoungchanphattratwo-spec/frtpf/releases/tag/v1.0.5",
   "minimum_version": "1.0.0",
   "force_update": false,
   "release_notes": [
-    "🐛 Fixed imported accounts disappearing after restart (relative path bug)",
-    "🐛 Fixed NamedTemporaryFile import fallback on Windows (delete=False + close before move)",
-    "🐛 Fixed VPN loading dialog flash before connect dialog (removed unnecessary scan progress)",
-    "✨ VPN app sent to background after successful connection (KEYCODE_HOME)",
+    "🐛 CRITICAL: account_backup moved to %APPDATA%\\FRT — no more Access Denied in Program Files",
+    "🐛 CRITICAL: Accounts no longer disappear after restart when installed to Program Files",
+    "🐛 Fixed _PROJECT_ROOT resolving to temp folder in frozen EXE",
+    "🐛 Fixed imported accounts disappearing after restart",
+    "🐛 Fixed VPN loading dialog flash before connect dialog",
+    "✨ VPN app sent to background after successful connection",
     "🐛 Fixed Stop button in automation tab not stopping the process",
-    "🐛 Fixed uiautomator dump timeout — added 3-attempt retry with pkill recovery",
-    "🐛 Fixed Facebook URL not opening target post (-S flag removed from am start)",
-    "⚡ Improved share link loading: more retries, longer timeouts, smarter waits",
-    "🛑 Stop now sends Facebook to background immediately on all devices"
+    "🐛 Fixed uiautomator dump timeout with retry logic",
+    "🐛 Fixed Facebook URL not opening target post",
+    "🛑 Stop now sends Facebook to background on all devices"
   ],
   "file_size_mb": 111.93,
-  "sha256": "b3bfc7e90fe344a114a8d4c625a4acacd3ef66820d324e9f9783828d6bbf4f40",
+  "sha256": "4091ff57571ecbe97a06dfb85fa77a6a6435f9fb397ed6557961cd66c2f04954",
   "platform": "windows",
   "architecture": "x64"
 }
